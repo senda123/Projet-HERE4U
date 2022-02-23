@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Sandouda
+Build-Jdk: 17
+Implementation-Title: Pidev-G3
+Implementation-Version: 1.0
+Implementation-Vendor-Id: tn.g3.spring
+Implementation-URL: https://spring.io/projects/spring-boot/Pidev-G3
+Created-By: Maven Integration for Eclipse
+
